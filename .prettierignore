@@ -1,0 +1,12 @@
+*/.md
+*/.svg
+*/.ejs
+*/.html
+
+/config
+/pnpm-lock.yaml
+/pnpm-workspace.yaml
+dist
+node_modules
+
+.DS_Store
